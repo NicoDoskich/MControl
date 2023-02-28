@@ -1,0 +1,133 @@
+body{
+    font-family: sans-serif;
+}
+
+.my-checkbox.filled-in:checked + span:not(.lever):after {
+  top: 0;
+
+  width: 20px;
+
+  height: 20px;
+
+  border: 2px solid #2193f3;
+
+  background-color: #2193f3;
+
+  z-index: 0;      
+}
+
+      
+
+.btn{
+    width: 100%;
+    margin-top: 15px;
+    background-color: #2193f3;
+}
+
+.footer-page-1{
+    margin-top: 15px;
+}
+
+.chekbox-1{
+    margin-left: 10px;
+}
+
+
+.nav{
+    font-size: 18px;
+}
+.title-nav{
+    margin-top: 30px;
+}
+h4{
+    margin-top: 45px;
+}
+
+.box-1-1{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px 5px silver;
+    border-radius: 5px;
+}
+
+.friend{
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+.search{
+    margin-top: 25px;
+}
+
+.title{
+    font-weight: bold;
+    color: black;
+}
+.material-icons{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.july{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: silver;
+}
+.tex-2{
+    color: silver;
+}
+
+.menu{
+    background-color: aliceblue;
+    width: 120px;
+    padding: 5px 0 5px 0;
+}
+
+.text{
+    margin-left: 5px;
+}
+.img-2{
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    width: 150px;
+}
+ul li{
+    margin-bottom: 15px;
+}
+ul{
+    margin-top: 25px;
+    margin-left: 100px;
+}
+.input{
+    text-align: right;
+}
+.news{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.box-page-3{
+    border: 1px solid silver;
+    box-shadow: 5px 5px 5px 5px silver;
+    border-radius: 5px;
+}
+.page-3-img{
+    margin-top: 25px;
+}
+.p-t-2{
+    margin-bottom: 15px;
+}
+
+.ul{
+    margin-left: -5px;
+    color: silver;
+}
+.p-2{
+    margin-left: 25px;
+    margin-bottom: -25px;
+}
+.card-title{
+    background-color: black;
+    width: 550px;
+    opacity: 0.8;
+}
